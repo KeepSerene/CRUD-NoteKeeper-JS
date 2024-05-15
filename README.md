@@ -7,7 +7,7 @@
 ### Note
 
 - Important details regarding the project will be added soon!
-- One can find the live site [here](/).
+- One can find the live site [here](https://note-sphere.netlify.app/).
 
 #### Acknowledgement
 
